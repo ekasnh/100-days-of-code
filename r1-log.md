@@ -1,10 +1,19 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Ekansh
+Day 1 
+learned basic ssh,DNS and Port protocol 
+
+Day 2 
+Started with Git 
+
+Day 3 
+Ended with learning basic git functions
+
+Day 4
+Failed to do anything 
+
+Day 5 
+Started with HTML, CSS, SASS
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
-## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
